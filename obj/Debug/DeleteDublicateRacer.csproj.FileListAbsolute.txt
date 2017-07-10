@@ -1,0 +1,10 @@
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\obj\Debug\DeleteDublicateRacer.csprojResolveAssemblyReference.cache
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\obj\Debug\DeleteDublicateRacer.Form1.resources
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\obj\Debug\DeleteDublicateRacer.Properties.Resources.resources
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\obj\Debug\DeleteDublicateRacer.csproj.GenerateResource.Cache
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\bin\Debug\DeleteDublicateRacer.exe.config
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\bin\Debug\DeleteDublicateRacer.exe
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\bin\Debug\DeleteDublicateRacer.pdb
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\bin\Debug\xNet.dll
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\obj\Debug\DeleteDublicateRacer.exe
+D:\GitHub\DeleteDublicateRacer\DeleteDublicateRacer\obj\Debug\DeleteDublicateRacer.pdb
